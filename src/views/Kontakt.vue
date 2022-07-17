@@ -18,7 +18,7 @@
     max-width="344"
   >
     <v-img
-src="..\assets\monika.jpeg"      height="400px"
+src="http://www.zenasamja.me/images/0100/monalisa-v.jpg"      height="400px"
     ></v-img>
 
     <v-card-title>
@@ -36,7 +36,7 @@ src="..\assets\monika.jpeg"      height="400px"
     max-width="344"
   >
     <v-img
-src="..\assets\ivana.jpeg"      height="400px"
+src="http://www.zenasamja.me/images/0100/monalisa-v.jpg"      height="400px"
     ></v-img>
 
     <v-card-title>
