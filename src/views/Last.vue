@@ -17,7 +17,7 @@ Izaberi ovaj datum
   </v-btn>
   </v-col>
   <v-col>
-    <img src="..\assets\termini.png" height="300px" />
+    <img src="https://us.123rf.com/450wm/nobilior/nobilior1312/nobilior131200055/24679154-pretty-woman-with-a-cosmetic-brush-white-background.jpg?ver=6" height="300px" />
   </v-col>
 </v-row>
 
