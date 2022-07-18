@@ -18,7 +18,7 @@
     max-width="344"
   >
     <v-img
-src="http://www.zenasamja.me/images/0100/monalisa-v.jpg"      height="400px"
+src="https://pbs.twimg.com/profile_images/1127930388746264577/ePIepOTf_400x400.jpg"      height="400px"
     ></v-img>
 
     <v-card-title>
@@ -36,7 +36,7 @@ src="http://www.zenasamja.me/images/0100/monalisa-v.jpg"      height="400px"
     max-width="344"
   >
     <v-img
-src="http://www.zenasamja.me/images/0100/monalisa-v.jpg"      height="400px"
+src="https://cdn.artdeco.de/_Resources/Persistent/1/b/9/5/1b954bea7d800f5544aeac3e4553099bcb0e9847/Header-Large-Schminktipp-Uebersichtsseite_v4-370x500.jpg"      height="400px"
     ></v-img>
 
     <v-card-title>
